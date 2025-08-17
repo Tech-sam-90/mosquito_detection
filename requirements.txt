@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-python-multipart
-torch
-ultralytics
-Pillow
 gunicorn
+ultralytics
+torch
+Pillow
+python-multipart
